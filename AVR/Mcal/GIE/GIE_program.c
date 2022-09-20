@@ -2,7 +2,7 @@
  * GIE_program.c
  *
  *  Created on: ???/???/????
- *      Author: dell
+ *      Author: Shady_Magdy
  */
 
 #include "GIE_private.h"

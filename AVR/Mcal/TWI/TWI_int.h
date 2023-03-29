@@ -2,7 +2,7 @@
  * TWI_int.h
  *
  *  Created on: Aug 29, 2022
- *      Author: aya_enan
+ *      Author: Shady Magdy
  */
 
 #ifndef TWI_TWI_INT_H_
